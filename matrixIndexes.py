@@ -1,3 +1,4 @@
+### added this comment to branch one from github online.
 import tensorflow as tf
 
 smnist = tf.keras.datasets.mnist
